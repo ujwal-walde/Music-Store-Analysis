@@ -1,4 +1,4 @@
 # SQL-Portfolio
-This is a SQL project for digital music store analysis
+This is a SQL project for digital music store analysis.
 Here I have used aggregations, filtering, joins etc.
-It shows my skills in Data Analysis through SQL
+It shows how I make the use of SQL for data analysis.
